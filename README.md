@@ -16,4 +16,3 @@ In the WRITE state, comfirm the index of the matrix and write the operated data 
 
 ![block_diagram](https://user-images.githubusercontent.com/41135423/42742503-a4a64316-88ed-11e8-854d-8acd0b006b6d.jpg)
 
-Note: the MM_tb.v, the header.v, makefile , memory.txt are provided by my Digital Design TA. It is not my work.
